@@ -1,0 +1,23 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://EmilH_LUT@bitbucket.org/emilh_lut/coursework.git"
+  },
+  "author": "Emil Haapalainen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/emilh_lut/coursework/issues"
+  },
+  "homepage": "https://bitbucket.org/emilh_lut/coursework#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "node-sass": "^8.0.0"
+  }
+}
