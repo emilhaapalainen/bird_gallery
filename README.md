@@ -1,5 +1,7 @@
 **Bird gallery Project For Front End Course**
 
+*Author: Emil Haapalainen*
+
 Small bird gallery project that is deployed with Github pages. Roughly follows a Youtube tutorial series, but with some twists and turns.
 
 **How to run**
